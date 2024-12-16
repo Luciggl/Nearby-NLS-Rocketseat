@@ -51,6 +51,7 @@ Passo a Passo
 Clone o repositório
 
 git clone https://github.com/Luciggl/Nearby-NLS-Rocketseat.git
+
 cd Nearby-NLS-Rocketseat
 
 Instale as dependências
@@ -68,20 +69,6 @@ Execute o aplicativo
 Escaneie o QR Code gerado pelo Expo com o aplicativo Expo Go no seu dispositivo.
 
 Ou rode no emulador (Android/iOS) configurado na sua máquina.
-
-:wrench: Estrutura do Projeto
-
-O projeto foi organizado da seguinte forma:
-
-/
-|-- assets/               # Imagens e ícones
-|-- src/
-    |-- components/       # Componentes reutilizáveis
-    |-- screens/          # Telas principais do app
-    |-- services/         # Arquivos para comunicação com APIs externas
-    |-- routes/           # Configuração de rotas (React Navigation)
-    |-- App.tsx           # Arquivo principal
-|-- package.json          # Dependências do projeto
 
 :zap: Comandos úteis
 
